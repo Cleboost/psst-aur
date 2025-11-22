@@ -1,8 +1,5 @@
 name: AUR Publish
 
-permissions:
-  contents: read
-
 on:
   workflow_dispatch:
 

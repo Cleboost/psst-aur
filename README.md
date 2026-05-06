@@ -1,1 +1,1 @@
-Moved to : Cleboost/kibo-appimage-aur
+Moved to : https://github.com/Cleboost/missing-aur

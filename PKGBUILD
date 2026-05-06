@@ -1,5 +1,5 @@
 pkgname=psst-bin
-pkgver=2025.12.20_ae4f16d
+pkgver=2026.05.05_b9c4cab
 pkgrel=0
 pkgdesc="Fast and multi-platform Spotify client with native GUI"
 arch=('x86_64')
